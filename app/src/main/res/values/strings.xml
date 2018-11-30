@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">F22LabsTask</string>
+    <string name="food_price">Price : %.1f \u20B9</string>
+    <string name="food_rating">Rating : %.1f</string>
+    <string name="price_format">%.1f \u20B9</string>
+    <string name="item_quantity">%1s * (%2d)</string>
+    <string name="f22labs_to_get_20_discount">‘F22LABS’ to get 20% discount from Grand total . Note : This coupon code is only valid if total ordered amount is greater than RS.400.00.</string>
+    <string name="freedel_to_exclude_delivery_charges">‘FREEDEL’ to exclude delivery charges from Grand total . Note : Free delivery coupon code is only valid if total ordered amount is greater than RS.100.00.</string>
+    <string name="apply_coupon">Apply Coupon</string>
+    <string name="feelab_applied">‘F22LABS’ coupon code is applied. Now you got 20% discount from total amount.</string>
+    <string name="freedel_applied">‘FREEDEL’ coupon code is applied. Free Delivery charge.</string>
+    <string name="flaberrormessage">This coupon code is only valid if total ordered amount is greater than RS.400.00.</string>
+    <string name="invalid_coupon_message">Invalid Coupon Code.</string>
+    <string name="feedel_error_message">Free delivery coupon code is only valid if total ordered amount is greater than RS.100.00.</string>
+    <string name="items_added_in_cart">Items Added in cart</string>
+    <string name="no_item_message">No items in cart.</string>
+    <string name="total">Total</string>
+    <string name="grand_total">Grand Total</string>
+    <string name="delivery_charge">Delivery Charge</string>
+    <string name="add">add</string>
+    <string name="coupon_code">coupon code</string>
+</resources>
